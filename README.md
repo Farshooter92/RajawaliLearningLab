@@ -1,4 +1,4 @@
-# GroovyGame
+# Rajawali Learning Lab
 ## Authored by
 Ben Stone(a.k.a Farshooter)
 
